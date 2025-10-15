@@ -1,7 +1,7 @@
 ---
 permalink: /
 layout: home
-title: Bienvenidos
+title: ¡Bienvenidos!
 list_title: Mis artículos del blog
 ---
 
@@ -14,5 +14,3 @@ Soy ingeniero electrónico con 23 años de experiencia. Además de mi profesión
 Formo parte de una unidad de Desarrollo Tecnológico e Innovación (I+D+i), donde una parte fundamental de mi labor consiste en explorar y analizar constantemente nueva información. A lo largo de este proceso, me he dado cuenta de que incluso el conocimiento más específico o aquel que parece superficial, puede tener un valor enorme para alguien. Por eso, he decidido compartir aquí parte de lo que aprendo y desarrollo.
 
 Mi esperanza es que alguno de los contenidos que encuentres aquí te resulte útil, inspirador o, al menos, interesante.
-
-### ¡Bienvenidos!

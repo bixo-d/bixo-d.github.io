@@ -1,9 +1,9 @@
 ---
 permalink: /about
 layout: page
-title: About me
+title: Yo
 ---
 
-En construcción.
+## En construcción.
 
 ![]()
