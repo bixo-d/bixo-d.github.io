@@ -20,8 +20,6 @@ En concreto, espero compartir:
 
 - Aplicación de la ingeniería reversa para entender, reparar y mejorar dispositivos.
 
-- Avances relacionados con mi proyecto emprendedor, que pronto tomará forma como Tecnoatelier Orinoco (o Guayana Labs).
-
 Mi trabajo en I+D+i me ha enseñado que el conocimiento, por más específico que sea, gana valor cuando se comparte. A menudo, una idea aparentemente pequeña puede ser la pieza que falta en el proyecto de otra persona, y viceversa.
 
 Este blog es mi contribución a esa conversación.
