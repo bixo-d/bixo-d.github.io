@@ -1,14 +1,14 @@
-title: Página personal de Rafael Aiquel Garbarini
-description: Vitrina a mis desarrollos personales
-author: "Rafael aiquel Garbarini"
+title: Tecnoatelier Orinoco
+description: Portafolio de ideas, proyectos y cápsulas de conocimiento
+author: "Rafael Aiquel Garbarini"
 
 theme: minima
 
-base_url: /gh-pages-minima-starter
-repository: jsanz/gh-pages-minima-starter
+#base_url: /gh-pages-minima-starter
+#repository: jsanz/gh-pages-minima-starter
 
 # Minima social links
-#github_username: jsanz
+#github_username: bixo-d
 #linkedin_username: jsanz
 #rss: rss
 
